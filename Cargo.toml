@@ -1,0 +1,9 @@
+[package]
+name = "question-thing"
+version = "0.1.2"
+edition = "2021"
+authors = ["squirrel <squirrelhomebrew@gmail.com>"]
+readme = "readme.md"
+description = "package to make input question stuff easier"
+license = "MIT"
+repository = "https://github.com/5quirre1/question-thing"
