@@ -1,6 +1,6 @@
 [package]
-name = "question-thing"
-version = "0.1.2"
+name = "questionThing"
+version = "0.1.4"
 edition = "2021"
 authors = ["squirrel <squirrelhomebrew@gmail.com>"]
 readme = "readme.md"
