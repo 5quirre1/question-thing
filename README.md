@@ -10,9 +10,7 @@ small example:
 
 
 ```rust
-mod question;
-
-use crate::question::question;
+use questionThing::question;
 
 fn main() {
 	let s: String = question("put a name!!", "please put a name");
